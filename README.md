@@ -43,8 +43,6 @@ The relationships between these tables enable the management of farm-specific da
 
 ![Entity Relationship Diagram](./MS2/ERD.jpg)
 
-Insert ERD image here or provide a link to the image hosted online for visualization of database structure and relationships.
-
 ### Oracle Code
 
 Included SQL code for creating tables, inserting sample data, and views for generating business reports based on the database information.
